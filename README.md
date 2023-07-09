@@ -1,1 +1,1 @@
-# rsschool-cv-new
+https://romnorf.github.io/rsschool-cv/
