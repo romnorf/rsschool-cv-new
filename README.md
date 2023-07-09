@@ -1,2 +1,1 @@
-My CV:
-https://romnorf.github.io/rsschool-cv/
+https://romnorfg.github.io/rsschool-cv/
